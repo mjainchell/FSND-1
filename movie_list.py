@@ -2,6 +2,7 @@ import films
 import fresh_tomatoes
 
 #Movie information is stored in this file.
+#The TITLE, STORYLINE, POSTER URL, and TRAILER URL are passed as arguments.
 
 secret_life_of_pets = films.Movie('Secret Life of Pets',
                                   'Cartoon movie about the secret lives of pets.',
